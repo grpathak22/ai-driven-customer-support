@@ -1,0 +1,101 @@
+Ticket_ID,Issue_Category,Sentiment,Priority,Solution,Resolution_Status,Ticket_Open_Date,Date_of_Resolution,Assigned_To_Team
+TECH_100,App Crashes on Launch,Anxious,Medium,Reinstall the app from official source,Resolved,2025-03-03 00:00:00,2025-03-03 14:00:00,Software
+TECH_101,Card Declined at Checkout,Urgent,Critical,Use alternate payment method,Resolved,2025-03-01 00:00:00,2025-03-01 12:00:00,Payments
+TECH_102,App Cannot Access Network,Urgent,Low,Enable local network permission in settings,Resolved,2025-03-04 00:00:00,2025-03-06 22:00:00,Network
+TECH_103,Account Locked,Annoyed,High,Reset password using recovery email,Resolved,2025-03-03 00:00:00,2025-03-05 07:00:00,Account
+TECH_104,Bluetooth Pairing Failed,Confused,Medium,Reset Bluetooth settings and retry pairing,Resolved,2025-03-02 00:00:00,2025-03-02 12:00:00,Device
+TECH_105,Login Fails with OTP,Anxious,High,Resend OTP and verify number,Resolved,2025-03-05 00:00:00,2025-03-05 06:00:00,Account
+TECH_106,Profile Info Not Updating,Frustrated,Critical,Clear cache and refresh app,Resolved,2025-03-09 00:00:00,2025-03-10 14:00:00,Account
+TECH_107,Payment Page Crashes,Urgent,Medium,Use browser instead of app temporarily,Resolved,2025-03-01 00:00:00,2025-03-02 06:00:00,Payments
+TECH_108,Thermostat Unresponsive,Confused,Low,Power cycle the device and reset,Resolved,2025-03-05 00:00:00,2025-03-07 11:00:00,Device
+TECH_109,Device Overheating,Anxious,High,Ensure proper ventilation and update firmware,Resolved,2025-03-11 00:00:00,2025-03-12 11:00:00,Device
+TECH_110,Settings Not Saving,Confused,Medium,Reset app preferences and restart,Resolved,2025-03-08 00:00:00,2025-03-10 01:00:00,Software
+TECH_111,Touchscreen Not Working,Confused,High,Clean screen and check for screen protector issues,Resolved,2025-03-04 00:00:00,2025-03-04 05:00:00,Device
+TECH_112,Incompatible Firmware,Anxious,Low,Rollback to previous compatible firmware version,Resolved,2025-03-10 00:00:00,2025-03-11 17:00:00,Device
+TECH_113,DNS Lookup Failed,Annoyed,Critical,Change DNS to Google DNS,Resolved,2025-03-05 00:00:00,2025-03-05 18:00:00,Network
+TECH_114,VPN Blocking Services,Urgent,High,Disable VPN and retry connection,Resolved,2025-03-07 00:00:00,2025-03-09 04:00:00,Network
+TECH_115,Device Overheating,Confused,Critical,Ensure proper ventilation and update firmware,Resolved,2025-03-01 00:00:00,2025-03-01 15:00:00,Device
+TECH_116,App Cannot Access Network,Annoyed,Low,Enable local network permission in settings,Resolved,2025-03-07 00:00:00,2025-03-09 12:00:00,Network
+TECH_117,Payment Page Crashes,Urgent,Low,Use browser instead of app temporarily,Resolved,2025-03-02 00:00:00,2025-03-04 21:00:00,Payments
+TECH_118,Bluetooth Pairing Failed,Frustrated,High,Reset Bluetooth settings and retry pairing,Resolved,2025-03-03 00:00:00,2025-03-05 11:00:00,  
+TECH_119,Installation Error,Urgent,Medium,Disable antivirus and reinstall,Resolved,2025-03-02 00:00:00,2025-03-03 15:00:00,Software
+TECH_120,Subscription Renewal Failed,Confused,Medium,Update card details and retry,Resolved,2025-03-03 00:00:00,2025-03-05 22:00:00,Payments
+TECH_121,Card Declined at Checkout,Urgent,High,Use alternate payment method,Resolved,2025-03-01 00:00:00,2025-03-01 15:00:00,Payments
+TECH_122,Bluetooth Pairing Failed,Confused,Low,Reset Bluetooth settings and retry pairing,Resolved,2025-03-10 00:00:00,2025-03-10 11:00:00,Device
+TECH_123,Update Failure,Frustrated,Medium,Manually install the latest update patch,Resolved,2025-03-11 00:00:00,2025-03-13 13:00:00,Software
+TECH_124,Transaction Not Reflected,Anxious,Critical,Wait 24 hrs or contact bank,Resolved,2025-03-09 00:00:00,2025-03-10 02:00:00,Payments
+TECH_125,Incompatible Firmware,Anxious,Critical,Rollback to previous compatible firmware version,Resolved,2025-03-08 00:00:00,2025-03-08 16:00:00,Device
+TECH_126,App Cannot Access Network,Frustrated,High,Enable local network permission in settings,Resolved,2025-03-10 00:00:00,2025-03-12 23:00:00,Network
+TECH_127,VPN Blocking Services,Confused,Low,Disable VPN and retry connection,Resolved,2025-03-11 00:00:00,2025-03-11 08:00:00,Network
+TECH_128,No Internet Detected,Frustrated,High,Check WiFi/router and reconnect,Resolved,2025-03-09 00:00:00,2025-03-10 07:00:00,Network
+TECH_129,Incompatible Firmware,Confused,Medium,Rollback to previous compatible firmware version,Resolved,2025-03-10 00:00:00,2025-03-12 13:00:00,Device
+TECH_130,DNS Lookup Failed,Annoyed,Medium,Change DNS to Google DNS,Resolved,2025-03-02 00:00:00,2025-03-04 08:00:00,Network
+TECH_131,Incompatible Firmware,Annoyed,Critical,Rollback to previous compatible firmware version,Resolved,2025-03-11 00:00:00,2025-03-11 13:00:00,Device
+TECH_132,Update Failure,Anxious,Low,Manually install the latest update patch,Resolved,2025-03-04 00:00:00,2025-03-05 01:00:00,Software
+TECH_133,Currency Mismatch Error,Confused,Critical,Set correct regional settings,Resolved,2025-03-05 00:00:00,2025-03-07 12:00:00,Payments
+TECH_134,No Internet Detected,Annoyed,Low,Check WiFi/router and reconnect,Resolved,2025-03-11 00:00:00,2025-03-13 22:00:00,Network
+TECH_135,App Crashes on Launch,Confused,Medium,Reinstall the app from official source,Resolved,2025-03-08 00:00:00,2025-03-10 14:00:00,Software
+TECH_136,DNS Lookup Failed,Frustrated,Medium,Change DNS to Google DNS,Resolved,2025-03-01 00:00:00,2025-03-03 02:00:00,Network
+TECH_137,Incompatible Firmware,Anxious,Critical,Rollback to previous compatible firmware version,Resolved,2025-03-11 00:00:00,2025-03-13 15:00:00,Device
+TECH_138,App Cannot Access Network,Anxious,Medium,Enable local network permission in settings,Resolved,2025-03-10 00:00:00,2025-03-12 22:00:00,Network
+TECH_139,Installation Error,Frustrated,Low,Disable antivirus and reinstall,Resolved,2025-03-08 00:00:00,2025-03-10 17:00:00,Software
+TECH_140,Transaction Not Reflected,Frustrated,Low,Wait 24 hrs or contact bank,Resolved,2025-03-02 00:00:00,2025-03-02 09:00:00,Payments
+TECH_141,DNS Lookup Failed,Frustrated,Medium,Change DNS to Google DNS,Resolved,2025-03-10 00:00:00,2025-03-10 06:00:00,Network
+TECH_142,Card Declined at Checkout,Annoyed,High,Use alternate payment method,Resolved,2025-03-04 00:00:00,2025-03-05 17:00:00,Payments
+TECH_143,Slow Performance,Annoyed,Medium,Switch to stable network or try mobile data,Resolved,2025-03-11 00:00:00,2025-03-12 15:00:00,Network
+TECH_144,Unable to Sync Data,Frustrated,Low,Re-authenticate and enable sync in settings,Resolved,2025-03-10 00:00:00,2025-03-10 13:00:00,Account
+TECH_145,Settings Not Saving,Confused,High,Reset app preferences and restart,Resolved,2025-03-06 00:00:00,2025-03-06 09:00:00,Software
+TECH_146,Slow Performance,Anxious,Medium,Switch to stable network or try mobile data,Resolved,2025-03-09 00:00:00,2025-03-10 15:00:00,Network
+TECH_147,Subscription Renewal Failed,Frustrated,High,Update card details and retry,Resolved,2025-03-02 00:00:00,2025-03-02 18:00:00,Payments
+TECH_148,Thermostat Unresponsive,Frustrated,Medium,Power cycle the device and reset,Resolved,2025-03-05 00:00:00,2025-03-06 03:00:00,Device
+TECH_149,Device Overheating,Anxious,Critical,Ensure proper ventilation and update firmware,Resolved,2025-03-01 00:00:00,2025-03-01 12:00:00,Device
+TECH_150,Unable to Sync Data,Frustrated,Low,Re-authenticate and enable sync in settings,Resolved,2025-03-03 00:00:00,2025-03-04 10:00:00,Account
+TECH_151,DNS Lookup Failed,Urgent,Critical,Change DNS to Google DNS,Resolved,2025-03-01 00:00:00,2025-03-01 15:00:00,Network
+TECH_152,Feature X Not Responding,Urgent,Low,Clear app cache and force stop,Resolved,2025-03-10 00:00:00,2025-03-12 23:00:00,Software
+TECH_153,DNS Lookup Failed,Confused,Low,Change DNS to Google DNS,Resolved,2025-03-06 00:00:00,2025-03-06 06:00:00,Network
+TECH_154,Device Overheating,Confused,Low,Ensure proper ventilation and update firmware,Resolved,2025-03-09 00:00:00,2025-03-11 05:00:00,Device
+TECH_155,Transaction Not Reflected,Confused,Medium,Wait 24 hrs or contact bank,Resolved,2025-03-07 00:00:00,2025-03-07 04:00:00,Payments
+TECH_156,Slow Performance,Annoyed,Medium,Switch to stable network or try mobile data,Resolved,2025-03-03 00:00:00,2025-03-03 14:00:00,Network
+TECH_157,Login Fails with OTP,Annoyed,Medium,Resend OTP and verify number,Resolved,2025-03-08 00:00:00,2025-03-09 21:00:00,Account
+TECH_158,Device Overheating,Confused,Low,Ensure proper ventilation and update firmware,Resolved,2025-03-04 00:00:00,2025-03-06 04:00:00,Device
+TECH_159,Bluetooth Pairing Failed,Frustrated,High,Reset Bluetooth settings and retry pairing,Resolved,2025-03-11 00:00:00,2025-03-13 18:00:00,Device
+TECH_160,Profile Info Not Updating,Anxious,Low,Clear cache and refresh app,Resolved,2025-03-05 00:00:00,2025-03-05 23:00:00,Account
+TECH_161,Payment Page Crashes,Frustrated,Low,Use browser instead of app temporarily,Resolved,2025-03-07 00:00:00,2025-03-08 21:00:00,Payments
+TECH_162,Incompatible Firmware,Urgent,Low,Rollback to previous compatible firmware version,Resolved,2025-03-10 00:00:00,2025-03-11 01:00:00,Device
+TECH_163,Thermostat Unresponsive,Annoyed,Low,Power cycle the device and reset,Resolved,2025-03-09 00:00:00,2025-03-10 02:00:00,Device
+TECH_164,Incompatible Firmware,Frustrated,High,Rollback to previous compatible firmware version,Resolved,2025-03-06 00:00:00,2025-03-06 16:00:00,Device
+TECH_165,Touchscreen Not Working,Anxious,Critical,Clean screen and check for screen protector issues,Resolved,2025-03-07 00:00:00,2025-03-08 14:00:00,Device
+TECH_166,Transaction Not Reflected,Confused,Critical,Wait 24 hrs or contact bank,Resolved,2025-03-07 00:00:00,2025-03-07 23:00:00,Payments
+TECH_167,Subscription Renewal Failed,Anxious,Critical,Update card details and retry,Resolved,2025-03-01 00:00:00,2025-03-02 15:00:00,Payments
+TECH_168,Device Overheating,Annoyed,High,Ensure proper ventilation and update firmware,Resolved,2025-03-08 00:00:00,2025-03-10 09:00:00,Device
+TECH_169,VPN Blocking Services,Annoyed,Medium,Disable VPN and retry connection,Resolved,2025-03-02 00:00:00,2025-03-03 13:00:00,Network
+TECH_170,Subscription Renewal Failed,Anxious,Low,Update card details and retry,Resolved,2025-03-11 00:00:00,2025-03-12 16:00:00,Payments
+TECH_171,App Cannot Access Network,Confused,Low,Enable local network permission in settings,Resolved,2025-03-04 00:00:00,2025-03-06 13:00:00,Network
+TECH_172,Card Declined at Checkout,Annoyed,Critical,Use alternate payment method,Resolved,2025-03-10 00:00:00,2025-03-11 01:00:00,Payments
+TECH_173,Missing Data Across Devices,Annoyed,Medium,Force full sync on all devices,Resolved,2025-03-11 00:00:00,2025-03-11 01:00:00,Account
+TECH_174,Update Failure,Confused,Medium,Manually install the latest update patch,Resolved,2025-03-08 00:00:00,2025-03-08 07:00:00,Software
+TECH_175,Transaction Not Reflected,Frustrated,Critical,Wait 24 hrs or contact bank,Resolved,2025-03-08 00:00:00,2025-03-10 20:00:00,Payments
+TECH_176,Subscription Renewal Failed,Anxious,Critical,Update card details and retry,Resolved,2025-03-09 00:00:00,2025-03-11 07:00:00,Payments
+TECH_177,Currency Mismatch Error,Confused,Critical,Set correct regional settings,Resolved,2025-03-05 00:00:00,2025-03-06 08:00:00,Payments
+TECH_178,Touchscreen Not Working,Annoyed,Medium,Clean screen and check for screen protector issues,Resolved,2025-03-08 00:00:00,2025-03-08 10:00:00,Device
+TECH_179,Device Overheating,Anxious,High,Ensure proper ventilation and update firmware,Resolved,2025-03-09 00:00:00,2025-03-09 11:00:00,Device
+TECH_180,App Cannot Access Network,Confused,Critical,Enable local network permission in settings,Resolved,2025-03-04 00:00:00,2025-03-04 09:00:00,Network
+TECH_181,Missing Data Across Devices,Anxious,Critical,Force full sync on all devices,Resolved,2025-03-01 00:00:00,2025-03-02 03:00:00,Account
+TECH_182,Missing Data Across Devices,Urgent,Low,Force full sync on all devices,Resolved,2025-03-07 00:00:00,2025-03-09 14:00:00,Account
+TECH_183,Installation Error,Anxious,Critical,Disable antivirus and reinstall,Resolved,2025-03-09 00:00:00,2025-03-11 22:00:00,Software
+TECH_184,Transaction Not Reflected,Annoyed,Medium,Wait 24 hrs or contact bank,Resolved,2025-03-07 00:00:00,2025-03-09 15:00:00,Payments
+TECH_185,Update Failure,Anxious,Critical,Manually install the latest update patch,Resolved,2025-03-08 00:00:00,2025-03-08 17:00:00,Software
+TECH_186,Subscription Renewal Failed,Frustrated,Critical,Update card details and retry,Resolved,2025-03-10 00:00:00,2025-03-10 04:00:00,Payments
+TECH_187,Update Failure,Confused,Critical,Manually install the latest update patch,Resolved,2025-03-01 00:00:00,2025-03-02 10:00:00,Software
+TECH_188,Unable to Sync Data,Confused,Critical,Re-authenticate and enable sync in settings,Resolved,2025-03-06 00:00:00,2025-03-08 01:00:00,Account
+TECH_189,Incompatible Firmware,Anxious,Low,Rollback to previous compatible firmware version,Resolved,2025-03-01 00:00:00,2025-03-03 22:00:00,Device
+TECH_190,Installation Error,Confused,Low,Disable antivirus and reinstall,Resolved,2025-03-01 00:00:00,2025-03-01 04:00:00,Software
+TECH_191,App Cannot Access Network,Frustrated,Medium,Enable local network permission in settings,Resolved,2025-03-03 00:00:00,2025-03-05 13:00:00,Network
+TECH_192,Settings Not Saving,Confused,Critical,Reset app preferences and restart,Resolved,2025-03-06 00:00:00,2025-03-06 22:00:00,Software
+TECH_193,Subscription Renewal Failed,Frustrated,Medium,Update card details and retry,Resolved,2025-03-02 00:00:00,2025-03-02 04:00:00,Payments
+TECH_194,Touchscreen Not Working,Annoyed,Critical,Clean screen and check for screen protector issues,Resolved,2025-03-02 00:00:00,2025-03-03 08:00:00,Device
+TECH_195,Installation Error,Urgent,Low,Disable antivirus and reinstall,Resolved,2025-03-01 00:00:00,2025-03-02 21:00:00,Software
+TECH_196,Currency Mismatch Error,Anxious,Low,Set correct regional settings,Resolved,2025-03-11 00:00:00,2025-03-12 20:00:00,Payments
+TECH_197,Update Failure,Annoyed,Low,Manually install the latest update patch,Resolved,2025-03-06 00:00:00,2025-03-08 11:00:00,Software
+TECH_198,DNS Lookup Failed,Confused,High,Change DNS to Google DNS,Resolved,2025-03-09 00:00:00,2025-03-11 14:00:00,Network
+TECH_199,Missing Data Across Devices,Urgent,High,Force full sync on all devices,Resolved,2025-03-04 00:00:00,2025-03-04 12:00:00,Account
