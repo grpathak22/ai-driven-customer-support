@@ -11,7 +11,7 @@ class OpenAIClient:
         """
         if api_key is None:
             # Default API key from notebook if not provided
-            api_key = "glhf_73f6b8fadcfa7adf7070ef3fff8f2e75"
+            api_key = "glhf_xxx"
             
         self.client = openai.OpenAI(
             api_key=api_key,
